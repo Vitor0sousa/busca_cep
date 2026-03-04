@@ -27,13 +27,14 @@ Um script Python simples e eficiente para validar e buscar informações de ende
 
 ```Bash
 pip install requests
-Execute o script:
+```
+3. ***Execute o script:
 
-Bash
+```Bash
 python nome_do_seu_arquivo.py
+```
 📋 Exemplo de Retorno
 Ao inserir um CEP válido (ex: 01001000), o script retornará um dicionário como este:
-
 JSON
 {
   "cep": "01001-000",
