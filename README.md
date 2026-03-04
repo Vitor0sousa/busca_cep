@@ -50,7 +50,8 @@ JSON
   "ddd": "11",
   "siafi": "7107"
 }
-<pre>   
+<pre> 
+
 📂 Estrutura do Código
 O código utiliza uma função principal validar_cep(cep) que:
 
