@@ -22,9 +22,10 @@ Um script Python simples e eficiente para validar e buscar informações de ende
    ```bash
    git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
    cd nome-do-repositorio
-Instale a biblioteca requests:
+2. **Instale a biblioteca requests:**
 
-Bash
+
+```Bash
 pip install requests
 Execute o script:
 
